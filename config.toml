@@ -1,0 +1,17 @@
+baseURL = "https://sleepy-morse-8edf67.netlify.com"
+languageCode = "en-us"
+title = "Jennifer Johnson"
+theme = "yinyang"
+
+[params]
+mainSections = ["posts"]
+
+[author]
+name = "Jennifer Johnson"
+
+[[params.socials]]
+name = "About Me"
+link = "/about"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/jkerr321"

@@ -1,0 +1,1 @@
+Personal blog site, using Hugo with the yingyang theme, and hosted on Netlify
