@@ -3,11 +3,11 @@ languageCode = "en-us"
 title = "Jennifer Johnson"
 theme = "yinyang"
 
-[params]
-mainSections = ["posts"]
-
 [author]
 name = "Jennifer Johnson"
+
+[params]
+mainSections = ["posts"]
 
 [[params.socials]]
 name = "About Me"
