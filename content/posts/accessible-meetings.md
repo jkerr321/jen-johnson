@@ -1,7 +1,7 @@
 ---
 title: "A Guide for Accessible Meetings"
 date: 2018-04-30T19:36:15+01:00
-draft: true
+draft: false
 ---
 
 # A Guide for Accessible Meetings

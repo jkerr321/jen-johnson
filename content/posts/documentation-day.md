@@ -1,7 +1,7 @@
 ---
 title: "Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours"
 date: 2019-07-10T19:36:15+01:00
-draft: true
+draft: false
 ---
 
 # Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*

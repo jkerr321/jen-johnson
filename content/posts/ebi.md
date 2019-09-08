@@ -1,7 +1,7 @@
 ---
 title: "Ebi: The making of a GitHub search tool from three perspectives"
 date: 2019-05-02T19:36:15+01:00
-draft: true
+draft: false
 ---
 
 # Ebi: The making of a GitHub search tool from three perspectives

@@ -1,7 +1,7 @@
 ---
 title: "Why I’m not losing weight for my wedding"
 date: 2018-02-12T19:36:15+01:00
-draft: true
+draft: false
 ---
 
 # Why I’m not losing weight for my wedding
