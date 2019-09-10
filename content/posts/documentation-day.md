@@ -1,25 +1,26 @@
 ---
-title: "Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours"
+title: "Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*"
 date: 2019-07-10T19:36:15+01:00
 draft: false
 ---
-
-# Documentation Day: How the FT.com team improved our documentation to 95% usefulness in 7 hours*
-
-* Plus heaps of preparation and lots of help!
+## *Plus heaps of preparation and lots of help!
 
 ![Friendly runbook trophies up for grabs](https://cdn-images-1.medium.com/max/8064/1*lpSSjJG4a1_jlZL7ThqqTw.png)*Friendly runbook trophies up for grabs*
 
+
 In June a group of FT developers came together for a magical day of sugar and sun fuelled writing in an effort to improve our documentation. By the time we were done we’d improved the quality of the [runbooks](https://en.wikipedia.org/wiki/Runbook) of our most critical ([Platinum tier](https://docs.google.com/spreadsheets/d/1R2cm_MkcLKe6ceoIiFYfnkbE-gXjNMs9JTbvUXbSrs0)) systems by 25%, achieved at least 90% ‘usefulness’ on all of them, and shared some hotly contested trophies. We called it ‘Documentation Day 2019’, and I’m going to tell you how we did it.
-> Platinum tier system: a brand critical system that is required to be available 99.9% of the time and is supported 24/7, for example, the [FT.com homepage](https://www.ft.com/).
+
+> _**Platinum tier system**: a brand critical system that is required to be available 99.9% of the time and is supported 24/7, for example, the [FT.com homepage](https://www.ft.com/)._
 
 ## Why now?
 
 The drive for improving our documentation was borne of one of our [Objective and Key Results](https://en.wikipedia.org/wiki/OKR) measures for 2019 around continuously increasing the maintainability and sustainability of the FT.com and FT App technology stack.
 
 Part of the motivation for this OKR, and our decision to focus first and foremost on our runbooks, was that they were not working effectively for either of their two audiences; the Operations team who provide first line support, and FT.com developers who provide second line support, and this was having a negative effect on both.
-> **First Line Support**: a group within the Operations team, working 24/7 to support 230 platinum systems at the FT, performing monitoring and basic support tasks for all of them
-> **Second Line Support**: Experts on individual systems (usually developers in the team that built them), called to provide fixes when Ops are unable to
+
+> _**First Line Support**: a group within the Operations team, working 24/7 to support 230 platinum systems at the FT, performing monitoring and basic support tasks for all of them._
+
+> _**Second Line Support**: Experts on individual systems (usually developers in the team that built them), called to provide fixes when Ops are unable to._
 
 When something goes wrong with one of our Platinum systems the Ops team try to diagnose the issue and fix it, based on the information in the runbook. However the information in the runbook is often vague, incorrect, or missing entirely, which leaves them unable to perform that function effectively.
 
@@ -30,6 +31,7 @@ When Ops are unable to fix an issue they call the Second Line Support team, that
 We hoped that improving runbooks all round would enable Ops support to better diagnose and fix issues, eliminating the need for calling Second Line Support in as many cases as possible, and when Second Line support are called they too have the information they need to fix issues, encouraging confidence in a wider group of FT developers to volunteer to be on the Second Line support rota.
 
 ![Part of an existing FT.com runbook](https://cdn-images-1.medium.com/max/3508/1*-w3bPlLWRoOmAV4MTaC-aA.png)*Part of an existing FT.com runbook*
+
 
 ## How?
 
@@ -45,14 +47,18 @@ That decided, we still had three big questions to answer:
 
 * And finally, how was the day going to run? How would we keep the team engaged, help everyone get something from it, ensure people could find the help the needed during the day, and make it fun?
 
+
 ### Measuring success
 
 Luckily for us we weren’t the only team at the FT focusing on runbooks in the run up to Documentation Day, and this project came together as a huge collaborative effort between the FT.com team and the Operations and Reliability Team.
 
 The Operations and Reliability team’s focus is on transforming the way we support delivery teams and our products at the FT, by improving the way we execute our monitoring and reliability. As part of their own OKRs they had come up with a metric by which the quality of runbooks could be measured — the System Operability Score (SOS). The System Operability Score deserves a blog post of its own, but for now it’s enough to say that this is what we’d use to quantitively measure success — how much could we improve this score for each runbook?
-> **System Operability Score**: a score created to provide tech teams at the FT with clear guidance on what they can do to improve the operability of their systems, with critical issues having a higher negative impact on the score
+
+> _**System Operability Score**: a score created to provide tech teams at the FT with clear guidance on what they can do to improve the operability of their systems, with critical issues having a higher negative impact on the score_
+
 
 ![SOS score in action](https://cdn-images-1.medium.com/max/5028/1*Lr4LtWd5OFiVzORI8DEzzw.png)*SOS score in action*
+
 
 This was a great start, but metrics can often be misleading. The score could measure if a field on a runbook was filled it, but there was only a certain extent to which it could validate the data within. We would have to do more than use the score to ensure we reached the level of quality we wanted.
 
@@ -62,19 +68,19 @@ As well as a quantitative measure, we also wanted qualitative feedback, and for 
 
 We were given invaluable advice by the Ops team, which stemmed from the way their team works: they perform monitoring and basic support tasks for hundreds of Platinum systems at the FT, so they are technically skilled but very broadly. As a result, they need runbooks to be easy to navigate and straightforward to understand. Some key points they asked us to consider were:
 
-* **Audience — **Remember the audience, their technical knowledge will not be as specialised as yours
+* **Audience** — Remember the audience, their technical knowledge will not be as specialised as yours
 
-* **Language **— Keep it simple and unambiguous
+* **Language** — Keep it simple and unambiguous
 
-* **Acronyms —**Avoid acronyms, or if that’s impossible then** **explain their meaning
+* **Acronyms** - Avoid acronyms, or if that’s impossible then** **explain their meaning
 
-* **Troubleshooting — **How can an issue be replicated? Can you provide straightforward instructions for a fix?
+* **Troubleshooting** — How can an issue be replicated? Can you provide straightforward instructions for a fix?
 
-* **Permissions — **Do the Ops team have the access to perform the steps suggested?
+* **Permissions** — Do the Ops team have the access to perform the steps suggested?
 
-* **Usefulness — **Is the content useful? For example, could someone determine the system’s purpose is and the business impact of the system breaking from the brief content provided in the System Description field?
+* **Usefulness** — Is the content useful? For example, could someone determine the system’s purpose is and the business impact of the system breaking from the brief content provided in the System Description field?
 
-* **Relevancy —** Is the content still relevant or is it out of date? Do links to external content work as expected?
+* **Relevancy** — Is the content still relevant or is it out of date? Do links to external content work as expected?
 
 We were also helped by [Jen Lambourne](https://twitter.com/jenny__anne?lang=en), the Head of Technical Writing at Government Digital Service, who delivered a brilliant talk for us in the week leading up to our Documentation Day. The talk was full of juicy content, but one thing it solidified for us was the value of task oriented content. In the case of our runbooks this was the troubleshooting section — providing a set of actionable, unambiguous steps for the Ops team to follow for each of the most likely to occur issues on a system, including what to do if those steps didn’t work.
 
@@ -140,15 +146,15 @@ And so to the big day itself! By now we were confident we had the infrastructure
 
 Everyone really got stuck in, and it was uplifting seeing people pair up with colleagues they didn’t know very well and learn new things about our systems. I asked some of the prize winners on the day what they felt they got out of it, and here’s what they had to say:
 
-*“I spend most of my time with systems I know fairly well so I really enjoyed delving into something I didn’t have much familiarity with and discovering quite how bad the runbook for it was — we split up tasks, worked out how various things like the backup process worked and documented as we went.”*
+_“I spend most of my time with systems I know fairly well so I really enjoyed delving into something I didn’t have much familiarity with and discovering quite how bad the runbook for it was — we split up tasks, worked out how various things like the backup process worked and documented as we went.”_
 
-*“The tooling around runbook.md meant we could start actual work within about five minutes, and the ability to submit our content and see our scores creep up as we improved the docs kept me motivated throughout the day (gamification irritates me but it does work!)”.*
+_“The tooling around runbook.md meant we could start actual work within about five minutes, and the ability to submit our content and see our scores creep up as we improved the docs kept me motivated throughout the day (gamification irritates me but it does work!)”._
 
-Conversely(!)…* “Updates we made ranged from drawing a new architecture diagram to hunting down monitoring status pages. All really interesting stuff, made all the more exhilarating by the SOS score — gamified documentation is the best kind of documentation.”*
+Conversely(!)… _“Updates we made ranged from drawing a new architecture diagram to hunting down monitoring status pages. All really interesting stuff, made all the more exhilarating by the SOS score — gamified documentation is the best kind of documentation.”_
 
-*“I think we both learnt a hell of a lot about how the Operations team works and its definitions. One standout was the difference between changes and rollbacks vs failing over and failing back, failing back was not something I’d really considered as something to document but it makes so much sense in hindsight!”*
+_“I think we both learnt a hell of a lot about how the Operations team works and its definitions. One standout was the difference between changes and rollbacks vs failing over and failing back, failing back was not something I’d really considered as something to document but it makes so much sense in hindsight!”_
 
-*“Initially it was a bit intimidating documenting an unknown part of FT.com, but working with someone else really made the experience a lot less frightening… A nice side effect of the day was that it led to updates of other code and READMEs to make the system as a whole more understandable. If you’re in the mindset of tidying, it kind of spreads to other things you touch.”*
+_“Initially it was a bit intimidating documenting an unknown part of FT.com, but working with someone else really made the experience a lot less frightening… A nice side effect of the day was that it led to updates of other code and READMEs to make the system as a whole more understandable. If you’re in the mindset of tidying, it kind of spreads to other things you touch.”_
 
 ## The outcome
 

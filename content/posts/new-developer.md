@@ -3,10 +3,7 @@ title: "One year on as a new developer"
 date: 2017-12-17T19:36:15+01:00
 draft: false
 ---
-
-# One year on as a new developer
-
-Or, Comparing what I learned in December two years in a row
+## Or, Comparing what I learned in December two years in a row
 
 ![A mountain. We’ll get to this metaphor eventually.](https://cdn-images-1.medium.com/max/5120/1*NfMUeB-bODLAXRxsOP5fag.jpeg)*A mountain. We’ll get to this metaphor eventually.*
 
@@ -58,7 +55,7 @@ Well, a year later, and that document is 101 pages long, and this is what’s at
 
 1. The difference between queryselector and queryselectorall
 
-1. ‘Minify’ — what happens to all code when it’s compiled(?) — variables are renamed with one letter, all white space is removed — it becomes essentially unreadable
+1. Minify — what happens to all code when it’s compiled(?) — variables are renamed with one letter, all white space is removed — it becomes essentially unreadable
 
 1. To get around async JavaScript you need to use a promise or callback ***// told you I was lying when I said I’d ‘got my head round JS as an async lang’ at the start of this list***
 
@@ -68,13 +65,13 @@ Well, a year later, and that document is 101 pages long, and this is what’s at
 
 1. How to set an event listener for multiple elements
 
-1. When declaring CSS styles, a space between an element and class means it behaves differently: H1.new-class styles h1 if it has the new-class class, whereas H1 .new-class (with space) styles any element within the h1 element which has .new-class class ***// this blew my tiny mind; CSS is ridiculous enough and now you’re telling me that something as inconsequential as a space changes what it does?!***
+1. When declaring CSS styles, a space between an element and class means it behaves differently: `h1.new-class` styles `h1` if it has the `.new-class` class, whereas `h1 .new-class` (with space) styles any element within the `h1` element which has `.new-class` class ***// this blew my tiny mind; CSS is ridiculous enough and now you’re telling me that something as inconsequential as a space changes what it does?!***
 
 1. CSS vs Sass nesting ***// also mind blowing***
 
-1. What ‘semantic’ means in the context of html. That I shouldn’t use ids for styling cos of specificity issues. What different http methods do
+1. What 'semantic' means in the context of html. That I shouldn’t use ids for styling cos of specificity issues. What different http methods do
 
-1. The map() method creates a new array with the results of calling a provided function on every element in this array ***// I copied this from the internet. I only really understood what map does 3 months ago***
+1. The `map()` method creates a new array with the results of calling a provided function on every element in this array ***// I copied this from the internet. I only really understood what map does 3 months ago***
 
 1. YOU CAN COMMIT CONSTANTLY AND PUSH INFREQUENTLY. DON’T ONLY COMMIT ONCE A DAY THEN GET MAD WHEN YOU LOSE IT ALL. ***//another sad day***
 
@@ -84,43 +81,47 @@ Well, a year later, and that document is 101 pages long, and this is what’s at
 
 (Disclosure — this list is a lot less entertaining than the last one)
 
-1. <sup> = superscript tag
+1. `<sup>` = superscript tag
 
-1. git cherry-pick [commit_id]
+1. `git cherry-pick [commit_id]`
 
-1. > is the descendent selector in CSS and only applies styles to an immediate child. So declaring a style for > ul will only apply styles to a <ul> that’s an immediate child
+1. `>` is the descendent selector in CSS and only applies styles to an immediate child. So declaring a style for `> ul` will only apply styles to a `<ul>` that’s an immediate child
 
-1. parentNode.querySelector() as opposed to document.querySelector() — looks just within the parent node rather than the whole DOM — great for when there are lots of repeat elements on page and you only want to interact with one of them
+1. `parentNode.querySelector()` as opposed to `document.querySelector()` — looks just within the parent node rather than the whole DOM — great for when there are lots of repeat elements on page and you only want to interact with one of them
 
-1. If you need to remove a timeout that you’ve previously set, you need to assign it to something when you set it, so that the clearTimeout has a reference: 
+1. If you need to remove a timeout that you’ve previously set, you need to assign it to something when you set it, so that the `clearTimeout` has a reference, 
 so set the timeout with:
-const autoCloseTooltip = setTimeout(() => {this.tooltip.close()}, 2000);
+```
+    const autoCloseTooltip = setTimeout(() => {this.tooltip.close()}, 2000);
+```
 Then clear it with:
-clearTimeout(autoCloseTooltip);
+```
+    clearTimeout(autoCloseTooltip);
+```
 
 1. Canned queries, sometimes known as corporate reports or documents, are predefined queries. In most instances, canned queries contain prompts that allow you to customise the query for your specific needs*** // back to the old copy paste from google… I don’t actually have a clue what a canned query is***
 
 1. Introduction to CSS grid using [Grid Garden](http://cssgridgarden.com/)
 
-1. __dirname = back to project root (directory name of current module)
+1. `__dirname` = back to project root (directory name of current module)
 
-1. Path = list of locations on your machine that you want files to be installed to. Strings separated by colons
+1. `PATH` = list of locations on your machine that you want files to be installed to. Strings separated by colons
 
-1. Async await function, instead of a promise with multiple .then, it uses try catch blocks ***// just as I feel pretty comfortable with promises, JS switches up on me***
+1. `async await` function, instead of a promise with multiple .then, it uses try catch blocks ***// just as I feel pretty comfortable with promises, JS switches up on me***
 
 1. ***// A load of MongoDB stuff that is too dry to list individually***
 
-1. Using {{#each}} in handlebars; when iterating over properties {{@key}} refers to property name, and {{this}} refers to property value
+1. Using `{{#each}}` in handlebars; when iterating over properties `{{@key}}` refers to property name, and `{{this}}` refers to property value
 
-1. Returning a console.log() will always return undefined
+1. Returning a `console.log()` will always return undefined
 
-1. white-space: nowrap in CSS stops items wrapping when resized responsively (e.g. preventing “Financial Times” breaking onto separate lines)
+1. white-space: `nowrap` in CSS stops items wrapping when resized responsively (e.g. preventing “Financial Times” breaking onto separate lines)
 
 1. FLEXBOX. IT KINDA MAKES SENSE.
 
 1. Getting more comfortable with destructuring
 
-1. To only add parts of your changes to github do: git add -p, then respond y or n for each bit
+1. To only add parts of your changes to github do: `git add -p`, then respond `y` or `n` for each bit
 
 1. CSS specificity is not just a black hole of dark magic. Some things have more weight than others (principally IDs getting the most importance) WHO KNEW?! ***// I learned this one thanks [to an awesome post](https://medium.com/@frontendium/css-the-cascade-specificity-7f4ad354e58c) by my colleague Gabi. Also interestingly, number 25 in my 2016 list was the first step in understanding this so we have come delightfully full circle!***
 

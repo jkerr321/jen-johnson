@@ -1,1 +1,5 @@
-this is about me
+---
+title: "About Me"
+draft: false
+---
+This is some stuffff

@@ -3,9 +3,7 @@ title: "This week I learnt… that sharing is caring!"
 date: 2019-01-07T19:36:15+01:00
 draft: false
 ---
-# This week I learnt… that sharing is caring!
-
-A little idea that got a bit bigger and more fun in 2018
+## A little idea that got a bit bigger and more fun in 2018
 
 ![](https://cdn-images-1.medium.com/max/2000/0*VIReZdHXSVD5ctMK.png)
 
@@ -30,13 +28,13 @@ Without further ado, here are some of our favourites from 2018*:
      
     console.log(obj); // { foo: ‘bar’ }
 
-* **TWIL **that** **Oxford university is older than the Aztec Empire.
+* **TWIL** that Oxford university is older than the Aztec Empire.
 
-* **TWIL **that self is a better way of accessing global context (it translates to non-web-based JS a lot easier for example): [https://stackoverflow.com/a/36854071/113721](https://stackoverflow.com/a/36854071/113721)
+* **TWIL** that self is a better way of accessing global context (it translates to non-web-based JS a lot easier for example): [https://stackoverflow.com/a/36854071/113721](https://stackoverflow.com/a/36854071/113721)
 
-* **TWIL **that you can call .filter(v => v) on arrays and it will filter out null values (or anything that returns non truthy, so 0 and ”” would get filtered out too). For example: [‘foo’, null, ‘bar’].filter(v => v) will become [‘foo’, ‘bar’].
+* **TWIL** that you can call .filter(v => v) on arrays and it will filter out null values (or anything that returns non truthy, so 0 and ”” would get filtered out too). For example: [‘foo’, null, ‘bar’].filter(v => v) will become [‘foo’, ‘bar’].
 
-* **TWIL **that promises can be explained using burgers: [https://kosamari.com/notes/the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
+* **TWIL** that promises can be explained using burgers: [https://kosamari.com/notes/the-promise-of-a-burger-party](https://kosamari.com/notes/the-promise-of-a-burger-party)
 
 * **TWIL** that flamingos are pretty badass… they can sleep standing in water that freezes their legs in position, can survive in water so salty it would strip your skin off, and can drink boiling water (without dying, I should add): [http://www.dw.com/en/flamingos-are-tough-as-hell/a-39552441](http://www.dw.com/en/flamingos-are-tough-as-hell/a-39552441)
 
@@ -100,7 +98,7 @@ There are a few things that I really liked about doing **TWIL** posts:
 
 * Seeing a ‘**TWIL**’ pop up in the channel makes everyone happy — they’re fun!
 
-Perhaps surprisingly, the original purpose of our **TWIL **posts — taking what our teammates learn and adding it to our own knowledge — has ended up being a secondary benefit. It’s really interesting seeing those snippets of knowledge each week but it’s also impossible to retain all that information and I promptly forget (and often relearn later!) many of the points that are shared.
+Perhaps surprisingly, the original purpose of our **TWIL** posts — taking what our teammates learn and adding it to our own knowledge — has ended up being a secondary benefit. It’s really interesting seeing those snippets of knowledge each week but it’s also impossible to retain all that information and I promptly forget (and often relearn later!) many of the points that are shared.
 
 Like all things we try as a team, It’s not a perfect system — over the course of the year we’ve posted less and less often, sometimes only once a month, and the posts probably became too code heavy to the detriment of the non developers on the team. But on balance the benefit of taking a few minutes each week to reflect and chat with our colleagues about what we’ve learnt has definitely had a positive impact, including those benefits we hadn’t intended at all when we set out; we’d recommend any team have a go at something similar.
 

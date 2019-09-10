@@ -3,10 +3,7 @@ title: "A Guide for Accessible Meetings"
 date: 2018-04-30T19:36:15+01:00
 draft: false
 ---
-
-# A Guide for Accessible Meetings
-
-And better meetings for your whole team to boot
+## And better meetings for your whole team to boot
 
 ![](https://cdn-images-1.medium.com/max/2000/1*YLQSB1zkRwPBWjMXc2VCHw.png)
 
@@ -30,18 +27,18 @@ Here are the guidelines:
 
 1. If a new interpreter is in the meeting, or any of the attendees don’t know each other, the group does a round robin at the start of the meeting to introduce themselves with their name and role
 
-1. Meetings take place in a room that has a screen so that any materials can be clearly seen by all — no huddling round a little laptop screen
+2. Meetings take place in a room that has a screen so that any materials can be clearly seen by all — no huddling round a little laptop screen
 
-1. **Good:** Only one person is talking at a time
+3. **Good:** Only one person is talking at a time
 **Great:** A visual cue, such as as a board marker or ball is held by the person who’s talking
 
-1. **Good:** Meeting has a clear agenda, which is written down
+4. **Good:** Meeting has a clear agenda, which is written down
 **Great:** Agenda is shared with attendees in advance, and reviewed at the start of the meeting
 
-1. **Good:** There is a clear indication during the meeting when moving through agenda items
+5. **Good:** There is a clear indication during the meeting when moving through agenda items
 **Great:** The indication is visual as well as verbal — E.G. the agenda is written on flip chart paper and items are crossed off as they are covered
 
-1. **Good:** Meetings over 45 minutes long include a 5 minute break in the middle for recovery time
+6. **Good:** Meetings over 45 minutes long include a 5 minute break in the middle for recovery time
 **Great:** Meetings are less than 45 minutes long ;)
 
 We found using these guidelines really helpful and continued to use many of them even when Ben wasn’t present.

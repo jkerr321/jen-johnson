@@ -3,9 +3,6 @@ title: "Ebi: The making of a GitHub search tool from three perspectives"
 date: 2019-05-02T19:36:15+01:00
 draft: false
 ---
-
-# Ebi: The making of a GitHub search tool from three perspectives
-
 This post was co-authored by Jennifer Shepherd and Tak Tran.
 
 ![](https://cdn-images-1.medium.com/max/2000/1*snNh6o12brXPomFCizq34A.png)
@@ -17,7 +14,7 @@ This led to the development of [ebi](https://github.com/Financial-Times/ebi), a 
 In this blog we’ll hear three perspectives from three developers in the Enabling Technologies Group (ETG), who worked on this project at different points.
 
 ## Tak: Full time developer on the ETG team
-> Defining the problem
+### _Defining the problem_
 
 Inspired by our team building more and [more](https://github.com/Financial-Times/tooling-helpers) [small](https://github.com/Financial-Times/tako) [tools](https://github.com/Financial-Times/github), doing [one thing, and one thing well](https://en.wikipedia.org/wiki/Unix_philosophy), ebi came out of a frustration with how awkward finding out the answers to simple questions like the following were:
 
@@ -34,7 +31,7 @@ Writing plain JavaScript to query GitHub ultimately did the job for one of the r
 Around this time, while mulling in mild frustration, a project of finding and pinning Node versions came along as well as an addition of bootcamper [Jennifer Johnson](https://medium.com/@jkerr321). With fresh eyes and a tangible project to work through the frustrations, we had some great non-coding exploration sessions to flesh out the problem and possible solutions.
 
 ## Jen J: Bootcamper
-> Working on a solution
+### _Working on a solution_
 
 I joined the team on a two week ‘bootcamp’ — a wonderful FT initiative whereby a developer steps out of their comfort zone and joins a completely different team in order to learn new things and better understand what other teams do. I was a bit nervous as this was my first bootcamp, and with a team who did some pretty gnarly stuff, but Tak and the team put me right at ease and I was learning lots and contributing from the moment I got there.
 
@@ -87,11 +84,10 @@ A list of matching results, along with errors, will be logged to the terminal, w
     Financial-Times/next-front-page
     Financial-Times/next-search-page
     INFO: ‘Procfile’ has no match for ‘web’ in ‘Financial-Times/next-signup’
-    ...
 
 We were able to come up with a basic specification which had a lot of scope for iterative enhancement. Some of the design decisions that came out of that definition were:
 
-* [**Caching is hard](https://martinfowler.com/bliki/TwoHardThings.html), so let’s not do it** — when wanting to run queries on files, it’s very tempting as an engineer to store those files, so it’s more efficient for future queries. However, then we have to deal with all the problems of having a cache (storage, keeping up to date etc). GitHub does an excellent job of hosting the files for us, so for our use case it’s fine to stand on their shoulders.
+* **[Caching is hard](https://martinfowler.com/bliki/TwoHardThings.html), so let’s not do it** — when wanting to run queries on files, it’s very tempting as an engineer to store those files, so it’s more efficient for future queries. However, then we have to deal with all the problems of having a cache (storage, keeping up to date etc). GitHub does an excellent job of hosting the files for us, so for our use case it’s fine to stand on their shoulders.
 
 * **Start off simple, and do one thing, and one thing well** (like Tako). Let GitHub do most of the work of hosting and caching our code. The ideal is something a developer can run as quickly as putting something in a text box in the GitHub search box.
 
@@ -106,7 +102,7 @@ I loved this project because I learnt so much: not only about the scope of the w
 By the time my bootcamp was over we’d published the first version of ebi as an NPM package with a solid set of tests and a few built in tools to maintain code hygiene, so it was in a great place for a new developer to dive into.
 
 ## Jennifer S: New team member
-> Enhancing the product
+### _Enhancing the product_
 
 I’d been at the FT for ten months when I moved to ETG from the Cloud Enablement (CE) team. In CE I’d been coding in Python, and used GitHub, configuration files and the command line a lot. I wrote javascript back when I was learning to code at [Makers Academy](https://makers.tech/) and was looking forward to improving my proficiency with it. I felt excited but wary about joining a team where obviously their projects were new to me AND I needed to upskill my javascript for my new tasks.
 
@@ -128,7 +124,7 @@ The role of ETG is to build tools that support the developers in FT.com, so ebi�
 
 ## Wrap up
 
-ebi was a lovely little project that brought together 3 different people, from 3 different backgrounds, cultivated by FT’s diversity and encouragement of [moving between teams](http://(https://medium.com/ft-product-technology/what-happens-when-you-move-around-inside-a-company-99e83adf5144).
+ebi was a lovely little project that brought together 3 different people, from 3 different backgrounds, cultivated by FT’s diversity and encouragement of [moving between teams](https://medium.com/ft-product-technology/what-happens-when-you-move-around-inside-a-company-99e83adf5144).
 
 Starting out as trying to scratch a developer itch to search GitHub repositories, it organically grew into a very enjoyable social coding experience for all of us. We were able to get to know new teams and team members, new approaches to development, develop human skills in learning and teaching, come out of our comfort zones and just have some fun coding with others.
 
@@ -137,5 +133,3 @@ The command line tool that came out of it is something we’re very proud of. Yo
 Much love,
 
 ebi (🦐) team
-
-*Read more posts like this on the [FT Product and Technology blog](https://medium.com/ft-product-technology). If you’re interested in working with us check out our open roles at [roles.ft.com](https://roles.ft.com).*

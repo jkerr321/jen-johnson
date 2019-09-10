@@ -3,10 +3,7 @@ title: "Why I’m not losing weight for my wedding"
 date: 2018-02-12T19:36:15+01:00
 draft: false
 ---
-
-# Why I’m not losing weight for my wedding
-
-Even though, for a while there, I felt like I should
+## Even though, for a while there, I felt like I should
 
 ![mmmmm cake](https://cdn-images-1.medium.com/max/2000/1*xKLdRtb-WRWcqiCK3eIpOw.jpeg)*mmmmm cake*
 
@@ -18,7 +15,7 @@ Then there was the flip side — not eating anything all day then caving in an h
 
 I still count these latter phases as ‘being on a diet’ because even though my eating habits weren’t getting my any closer to my dream bod, I still felt guilty when I ate, weighed myself *a lot*, and thought about food all the time. (I promise this gets less depressing soon).
 
-The crux of the feeling was that my weight and **how good/attractive/fun I was were inherently linked**. That as one went up the other went down. That my personality — who I *was *— was my body and my weight. Essentially, the more I ate, and the more I weighed (and I’m talking 4 or 5 pounds here), the more I felt panicked and not good enough.
+The crux of the feeling was that my weight and **how good/attractive/fun I was were inherently linked**. That as one went up the other went down. That my personality — who I _was_ — was my body and my weight. Essentially, the more I ate, and the more I weighed (and I’m talking 4 or 5 pounds here), the more I felt panicked and not good enough.
 
 I know. Bat-shit crazy right?
 
@@ -29,9 +26,12 @@ Those eating habits were so clearly not a healthy attitude to food. That said, I
 Anyway, when I was 24 I read ‘How to be a woman’ by Caitlin Moran and it changed my life. It was like a switch had flipped in my brain and I suddenly and jubilantly realised that **my weight didn’t matter**. Or, more accurately, my weight didn’t matter **to anyone but me**, and once I realised that no one else really cared, I stopped caring too.
 
 The line in the book that did it for me (nestled in amongst all the empowerment and feminism which definitely helped) was something like:
-> “I believe I’ve finally nailed a sensible definition of what a good, advisable, ‘normal’ weight is:
-> ‘human shaped’.
-> If you look recognisably, straightforwardly human — the kind of reasonable figure a ten year old would draw, if asked to sketch a person in under a minute — then you are fine… so if you can find a frock you look good in and can run up three flights of stairs, you’re not fat.”
+
+>   “I believe I’ve finally nailed a sensible definition of what a good, advisable, ‘normal’ weight is:
+
+>   ‘human shaped’.
+
+>    If you look recognisably, straightforwardly human — the kind of reasonable figure a ten year old would draw, if asked to sketch a person in under a minute — then you are fine… so if you can find a frock you look good in and can run up three flights of stairs, you’re not fat.”
 
 Goodness knows why this one phrase did it for me after years of mental toil, but it did, and I have pressed this book into the hands of many women (and men) over the years, so if you haven’t read it yet I can can 100% recommend you do!
 
@@ -45,7 +45,7 @@ Honestly, I’m so sad for the years I wasted not having figured out this most b
 
 So to my main point which is **WEDDINGS**. I’m getting married in June and for the first time in years I have started thinking about my weight again and **I don’t like it**.
 
-Soon after I get engaged someone said to me ‘You’re going to get so THIN!’ and I indignantly thought ‘*am I*?!’ but soon that turned into a doubting ‘*should *I?’.
+Soon after I get engaged someone said to me ‘You’re going to get so THIN!’ and I indignantly thought ‘*am I*?!’ but soon that turned into a doubting _‘should I?’_.
 
 That old familiar feeling has been picking away at me. Knowing I’m going to eat something and questioning whether I should *really* do it, and feeling guilty for letting myself down when I do. **BY EATING. NORMAL FOOD THAT WE NEED TO SURVIVE. YOU THINK A GIRL WOULD LEARN**. Anyway, here’s why I’ve started having those feelings, and why I’m not standing for them:
 
@@ -69,7 +69,7 @@ Now for my last point. I wasn’t even going to bring men into this because the 
 
 I was telling him about my not-losing-weight-for-the-wedding and he responded with ‘Well at least you won’t be committing The Bridal Deception!’. The words alone set alarm bells ringing. ‘The Bridal Deception’, apparently, is the situation whereby a bride looks her absolute best on her wedding day and it’s all down hill from there, and is as a result deceiving their husband about her appearance for the rest of their time together.
 
-One. Are you actually serious?! (caveat: I do* think* it was a joke, but it wasn’t funny)
+One. Are you actually serious?! (caveat: I do _think_ it was a joke, but it wasn’t funny)
 
 Two. If you’ve been in a relationship for over 6 months and you haven’t seen your girl hungover looking like a shrivelled up prawn, 2 days unwashed, wearing pizza stained joggers then she is a stronger woman than I. And if you still want to marry her after that then no amount of hairspray, shellac, or weight loss is going to convince me that ‘The Bridal Deception’ is a thing.
 
@@ -79,4 +79,4 @@ I’ll let you in on a secret: I wrote this for myself. When I sat down and star
 
 — — — — —
 
-Appeared first in Huffington Post: [http://www.huffingtonpost.co.uk/entry/why-im-not-losing-weight-for-my-wedding-even-though_uk_5a85a85ae4b00e7aba2d297a](http://www.huffingtonpost.co.uk/entry/why-im-not-losing-weight-for-my-wedding-even-though_uk_5a85a85ae4b00e7aba2d297a)
+[Appeared first in Huffington Post](http://www.huffingtonpost.co.uk/entry/why-im-not-losing-weight-for-my-wedding-even-though_uk_5a85a85ae4b00e7aba2d297a)
