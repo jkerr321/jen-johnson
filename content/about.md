@@ -1,5 +1,1 @@
----
-title: "About Me"
-draft: false
----
-This is some stuffff
+Project manager turned web developer. Fan of food, football, learning, and reading.
