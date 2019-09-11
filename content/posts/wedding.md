@@ -3,8 +3,6 @@ title: "Why I’m not losing weight for my wedding"
 date: 2018-02-12T19:36:15+01:00
 draft: false
 ---
-## Even though, for a while there, I felt like I should
-
 ![mmmmm cake](https://cdn-images-1.medium.com/max/2000/1*xKLdRtb-WRWcqiCK3eIpOw.jpeg)*mmmmm cake*
 
 ## Part One

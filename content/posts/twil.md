@@ -3,9 +3,9 @@ title: "This week I learnt… that sharing is caring!"
 date: 2019-01-07T19:36:15+01:00
 draft: false
 ---
-## A little idea that got a bit bigger and more fun in 2018
 
 ![](https://cdn-images-1.medium.com/max/2000/0*VIReZdHXSVD5ctMK.png)
+### A little idea that got a bit bigger and more fun in 2018
 
 This post is a loose follow up to [one I wrote a year ago](https://codeburst.io/one-year-on-as-a-new-developer-ebed0a36692) about recording what I was learning each day as a new developer — at the time some of my teammates and I were keeping a record for ourselves whenever we came across something new. Soon after, in one of our retrospective meetings, we discussed that although it’s brilliant that we all learn so much all the time it would be great if we could make it a more shared experience.
 

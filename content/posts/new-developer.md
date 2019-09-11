@@ -3,9 +3,10 @@ title: "One year on as a new developer"
 date: 2017-12-17T19:36:15+01:00
 draft: false
 ---
-## Or, Comparing what I learned in December two years in a row
 
 ![A mountain. We’ll get to this metaphor eventually.](https://cdn-images-1.medium.com/max/5120/1*NfMUeB-bODLAXRxsOP5fag.jpeg)*A mountain. We’ll get to this metaphor eventually.*
+
+### Or, Comparing what I learned in December two years in a row
 
 In May 2016 I started learning JavaScript with [freeCodeCamp.org](https://www.freecodecamp.org/). In December 2016, with the help and support of some incredible colleagues (and I could write essays and essays on that, but another time) I entered our organisation’s annual hackathon and committed my first code to the FT codebase.
 

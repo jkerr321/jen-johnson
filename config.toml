@@ -1,7 +1,6 @@
 baseURL = "https://sleepy-morse-8edf67.netlify.com"
 languageCode = "en-us"
 title = "Jennifer Johnson"
-theme = "yinyang"
 
 [author]
 name = "Jennifer Johnson"

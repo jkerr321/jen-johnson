@@ -3,10 +3,9 @@ title: "Documentation Day: How the FT.com team improved our documentation to 95%
 date: 2019-07-10T19:36:15+01:00
 draft: false
 ---
-## *Plus heaps of preparation and lots of help!
-
 ![Friendly runbook trophies up for grabs](https://cdn-images-1.medium.com/max/8064/1*lpSSjJG4a1_jlZL7ThqqTw.png)*Friendly runbook trophies up for grabs*
 
+***Plus heaps of preparation and lots of help!**
 
 In June a group of FT developers came together for a magical day of sugar and sun fuelled writing in an effort to improve our documentation. By the time we were done we’d improved the quality of the [runbooks](https://en.wikipedia.org/wiki/Runbook) of our most critical ([Platinum tier](https://docs.google.com/spreadsheets/d/1R2cm_MkcLKe6ceoIiFYfnkbE-gXjNMs9JTbvUXbSrs0)) systems by 25%, achieved at least 90% ‘usefulness’ on all of them, and shared some hotly contested trophies. We called it ‘Documentation Day 2019’, and I’m going to tell you how we did it.
 
