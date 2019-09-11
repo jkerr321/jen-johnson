@@ -1,1 +1,1 @@
-Personal blog site, using Hugo with the yingyang theme, and hosted on Netlify
+Personal blog site, using Hugo, based on the [YinYang](https://github.com/joway/hugo-theme-yinyang) theme, and hosted on Netlify
