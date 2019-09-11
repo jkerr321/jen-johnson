@@ -12,7 +12,8 @@ a {
 
 a:hover {
   font-weight: 600;
-  text-decoration: underline;
+  text-decoration: none;
+  border-bottom: 2px solid aquamarine;
 }
 
 .post-ads {
@@ -48,12 +49,13 @@ a:hover {
 
 .signatures a {
   text-decoration: none;
+  border: none;
   color: #fb3c00;
 }
 
 .header-line {
   width: 100%;
-  border-width: 1.5px;
+  border-width: 2px;
   border-color: #000;
   border-style: solid none none none;
   margin: 50px 0;
@@ -89,12 +91,12 @@ a:hover {
 }
 
 .site-footer-top {
-  margin: 18px 0;
+  margin: 12px 0;
   display: flex;
   justify-content: flex-end;
-  padding: 12px 0;
+  padding: 8px 0;
   border-width: 1.5px;
-  border-style: solid none;
+  border-style: none none solid;
   border-color: #000;
 }
 
