@@ -9,8 +9,11 @@ name = "Jennifer Johnson"
 mainSections = ["posts"]
 
 [[params.socials]]
-name = "About Me"
-link = "/about"
+link = "/"
+name = "Writing"
 [[params.socials]]
-name = "Github"
+link = "/about"
+name = "About Me"
+[[params.socials]]
 link = "https://github.com/jkerr321"
+name = "Github"
