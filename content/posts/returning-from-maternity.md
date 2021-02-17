@@ -8,9 +8,9 @@ _This post was written as part of the FT Families project to share experiences a
 
 ![](https://user-images.githubusercontent.com/17846996/108256960-0d591480-7156-11eb-823e-661c8b4fad8d.png)
 
-**I started back at work after having my first child, Alex, in June 2020, having extended my maternity leave due to Covid. Nurseries had recently reopened and like everyone we were juggling childcare and work, but with the added complexity of lock down and working from home. Actually it made my life much easier - a hot, shared bedroom for an office was a small price to pay for being able to drop Alex at nursery then start work 10 minutes later, and for being able to balance domestic work and parenting work and work work while staying sane! Here are some of the things that happened during those first few weeks back.**
+_I started back at work after having my first child, Alex, in June 2020, having extended my maternity leave due to Covid. Nurseries had recently reopened and like everyone we were juggling childcare and work, but with the added complexity of lock down and working from home. Actually it made my life much easier - a hot, shared bedroom for an office was a small price to pay for being able to drop Alex at nursery then start work 10 minutes later, and for being able to balance domestic work and parenting work and work work while staying sane! Here are some of the things that happened during those first few weeks back._
 
-_**June 1st 2020**, my husband Andrew has taken two weeks off to look after Alex before she starts nursery and I am about to ‘return’ from Maternity leave, but actually from my bedroom. This is the week that…_
+_**June 1st 2020, my husband Andrew has taken two weeks off to look after Alex before she starts nursery and I am about to ‘return’ from Maternity leave, but actually from my bedroom. This is the week that…**_
 
 “I start back at work! Ooo it feels good to be back. Day one of WFH and I have my errant split ends sprayed down, my new quality drapey white work top on, a full face of makeup applied, and a permanent smile. Day 88 for everyone else and not a hint of mascara to be seen and a lot of listless gazes and firm set jaws from the grinding down of days spent staring endlessly into video calls.
 
@@ -20,7 +20,7 @@ Andrew is in charge of domestic duties. Day four and there is no loo roll on the
 
 We have our 12th Saturday lockdown BBQ in a row, wearing padded coats, and interrupted by hail and lightning. Poetic that after weeks of summer grilling our final lockdown BBQ ends in the same conditions that we started in.”
 
-_**June 8th**, week 2 back at work, Andrew is still looking after Alex. This is the week that…_
+_**June 8th, week 2 back at work, Andrew is still looking after Alex. This is the week that…**_
 
 “I stare forlornly at the beautiful Sandqvist backpack that Andrew bought for my planned return to work in April (literally) gathering dust in the corner, and feel glad that I at least sent back the fancy going-back-to-work trousers and summer jacket I bought the same week.
 
@@ -28,7 +28,7 @@ I completely lose the plot when I find out that Alex’s nursery only does one n
 
 Andrew laments the end of his two weeks off looking after the baby. I hear him in the next room getting her up from her nap on Friday afternoon: ‘Right Alex, it's 2.30pm now, that means we've got just 3 hours left to sit in the park and get drunk’”
 
-_**June 22nd**, week 4 back at work, this week my parents are looking after Alex in our flat, while Andrew and I both work from our bedroom. This is the week that..._
+_**June 22nd, week 4 back at work, this week my parents are looking after Alex in our flat, while Andrew and I both work from our bedroom. This is the week that...**_
 
 Mum and dad come to look after Alex. Half an hour after they arrive I hear mum shout "Jesus David!" momentarily followed by hysterics from Alex. I leave them to it and decide it's better not to ask
 
@@ -42,7 +42,7 @@ Tears prick my eyes as I run past our local shop and see that they've spray pain
 
 I sit back at the end of the week and feel a solid satisfaction. There were 4 cards on the retro board this week thanking me for my work and enthusiasm, and I’m pleased with the code I’ve built over the last couple of weeks; a brand new repo and a fully tested Lambda, and feel proud of what I’ve done - I don’t think I would have so easily done this a year ago, which means I’ve learnt things even as I’ve been off. I feel good to be back.
 
-_**June 29th**, at last, Alex starts nursery! This is the week that…_
+_**June 29th, at last, Alex starts nursery! This is the week that…**_
 
 “Alex starts nursery on Wednesday and I take Monday and Tuesday off to look after her. Childcare is so much more exhausting than work, how did I do this for 10 months on my own?!
 
@@ -54,7 +54,7 @@ I got a bus to Peckham, my first time on public transport, or even in a vehicle,
 
 Pubs reopen! We try to go to a pub for a sneaky pint on Saturday afternoon but are turned away because they’re fully booked. Instead we get shockingly strong takeaway cocktails and drink them in the wind on Peckham Rye, drip feeding Alex rusks to keep her happy. Two cocktails in and I’m queasy and sleepy so I hot foot it home to put Alex to bed, then make a mountain of cheese on toast before following her.”
 
-_**July 5th**, Covid (almost) stops proceedings. This is the week that…_
+_**July 5th, Covid (almost) stops proceedings. This is the week that…**_
 
 “Nursery tells me that Alex can’t come back from her bout of illness until she’s been tested for Covid. I give up trying to work and look after her at the same time and just book the rest of the week off, which is annoying, because looking after a baby full time is no holiday!
 
