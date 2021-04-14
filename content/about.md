@@ -10,6 +10,6 @@ Project manager turned developer. Fan of learning, reading, food, and football.
 
 -------------------
 
-Many developers' personal sites are a showcase of their skills. In my case, I had a baby and 6 weeks later made this, quickly, to do something for myself that wasn't baby related :D
+Many developers' personal sites are a showcase of their skills. In my case, I had a baby and 6 weeks later made this, quickly, to do something for myself that wasn't baby related.
 
-I would like it to be better looking, more interesting, and more technically accomplished, but I have come to accept (I type, as my 6 week old baby has become a toddler) that it might be a long time before that happens!
+I would like it to be better looking and more technically accomplished, but I have come to accept (I type, as my 6 week old baby has become a toddler) that it might be a long time before that happens!
