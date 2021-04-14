@@ -7,6 +7,8 @@ name = "Jennifer Johnson"
 
 [params]
 mainSections = ["posts"]
+favicon = "/img/woman-technologist.png"
+# favicon = "/img/star.png"
 
 [[params.socials]]
 link = "/"
@@ -17,3 +19,4 @@ name = "About Me"
 [[params.socials]]
 link = "https://github.com/jkerr321"
 name = "Github"
+
